@@ -341,6 +341,7 @@ section {
 
 #details {
   border-top: 1px solid white;
+  margin: 0;
 }
 
 #details div {
